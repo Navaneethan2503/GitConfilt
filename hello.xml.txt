@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is Message from master branch . 
+=======
+This is from Master branch
+This is from GitWork Branch
+>>>>>>> GitWork
